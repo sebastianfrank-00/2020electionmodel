@@ -90,7 +90,7 @@ print(c("The forecast projects Trump will receive", percent(round(rpv, digits = 
 print(c("The forecast projects that Biden will win the following states:", dstates))
 print(c("The forecast projects that Trump will win the following states:", rstates))
 
-## VISUALIZED 
+## VISUALIZATIONS (NEVER FINISHED)
 
 electionsimulationdf$State <- data4[,  'State']
 electionsimulationdf$EV <- data4[, 'EV']
